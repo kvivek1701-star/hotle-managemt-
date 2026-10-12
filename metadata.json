@@ -1,0 +1,8 @@
+{
+  "name": "Remix GrandStay PMS - Hotel Owner \u0026 Admin Management System",
+  "description": "Complete multi-property Hotel Management System exclusively for hotel owners and administrators. Manage rooms, bookings, visual check-in/check-out, multi-split payments, pending balances, housekeeping workflows, and financial reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
